@@ -1,1 +1,3 @@
-# geo-bot
+# Geo Discord Bot
+
+🚧 Under Construction 🚧
