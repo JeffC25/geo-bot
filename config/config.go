@@ -9,6 +9,7 @@ import (
 
 type Config struct {
 	DiscordToken string `yaml:"discordtoken"`
+	LogLevel     int    `yaml:"loglevel"`
 }
 
 func GetConfig() (Config, error) {
